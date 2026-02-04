@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Data files
+*.csv
+zeek_logs/
+attack_alerts.log
+
+# Virtual environment
+cyberenv/
+
+# OS
+.DS_Store
